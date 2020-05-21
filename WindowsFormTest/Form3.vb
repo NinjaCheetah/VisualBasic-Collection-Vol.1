@@ -16,6 +16,9 @@
         ElseIf num1 <= 9 And num1done = 0 Then
             num1 = num1 + 10
             Label1.Text = num1
+        ElseIf num1 <> 0 And num2 <= 9 And num1done = 1 Then
+            num2 = num2 + 10
+            Label1.Text = num2
         End If
     End Sub
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
@@ -28,6 +31,9 @@
         ElseIf num1 <= 9 And num1done = 0 Then
             num1 = num1 + 20
             Label1.Text = num1
+        ElseIf num1 <> 0 And num2 <= 9 And num1done = 1 Then
+            num2 = num2 + 20
+            Label1.Text = num2
         End If
     End Sub
 
@@ -41,6 +47,9 @@
         ElseIf num1 <= 9 And num1done = 0 Then
             num1 = num1 + 30
             Label1.Text = num1
+        ElseIf num1 <> 0 And num2 <= 9 And num1done = 1 Then
+            num2 = num2 + 30
+            Label1.Text = num2
         End If
     End Sub
 
@@ -54,6 +63,9 @@
         ElseIf num1 <= 9 And num1done = 0 Then
             num1 = num1 + 40
             Label1.Text = num1
+        ElseIf num1 <> 0 And num2 <= 9 And num1done = 1 Then
+            num2 = num2 + 40
+            Label1.Text = num2
         End If
     End Sub
 
@@ -67,6 +79,9 @@
         ElseIf num1 <= 9 And num1done = 0 Then
             num1 = num1 + 50
             Label1.Text = num1
+        ElseIf num1 <> 0 And num2 <= 9 And num1done = 1 Then
+            num2 = num2 + 50
+            Label1.Text = num2
         End If
     End Sub
 
@@ -80,6 +95,9 @@
         ElseIf num1 <= 9 And num1done = 0 Then
             num1 = num1 + 60
             Label1.Text = num1
+        ElseIf num1 <> 0 And num2 <= 9 And num1done = 1 Then
+            num2 = num2 + 60
+            Label1.Text = num2
         End If
     End Sub
 
@@ -93,6 +111,9 @@
         ElseIf num1 <= 9 And num1done = 0 Then
             num1 = num1 + 70
             Label1.Text = num1
+        ElseIf num1 <> 0 And num2 <= 9 And num1done = 1 Then
+            num2 = num2 + 70
+            Label1.Text = num2
         End If
     End Sub
 
@@ -106,6 +127,9 @@
         ElseIf num1 <= 9 And num1done = 0 Then
             num1 = num1 + 80
             Label1.Text = num1
+        ElseIf num1 <> 0 And num2 <= 9 And num1done = 1 Then
+            num2 = num2 + 80
+            Label1.Text = num2
         End If
     End Sub
 
@@ -119,6 +143,9 @@
         ElseIf num1 <= 9 And num1done = 0 Then
             num1 = num1 + 90
             Label1.Text = num1
+        ElseIf num1 <> 0 And num2 <= 9 And num1done = 1 Then
+            num2 = num2 + 90
+            Label1.Text = num2
         End If
     End Sub
 
