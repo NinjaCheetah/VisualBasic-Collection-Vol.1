@@ -12,4 +12,11 @@
         Me.Hide()
         Form3.Show()
     End Sub
+
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        Me.Hide()
+        Form4.Show()
+        Form4.Button1.Show()
+        Form4.Label2.Hide()
+    End Sub
 End Class

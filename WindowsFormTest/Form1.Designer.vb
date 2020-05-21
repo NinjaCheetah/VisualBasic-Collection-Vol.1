@@ -42,7 +42,7 @@ Partial Class Form1
         '
         'Button1
         '
-        Me.Button1.BackColor = System.Drawing.Color.Red
+        Me.Button1.BackColor = System.Drawing.SystemColors.ControlLight
         Me.Button1.Location = New System.Drawing.Point(387, 12)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(75, 23)
