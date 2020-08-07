@@ -7,7 +7,7 @@ The first collection of small applications written in Visual Basic, contained in
 ## So, what's included?
 - Color Buttons
 - VBCalc
-(Information on the Wiki, github.com/NinjaCheetah/VisualBasic-Collection-Vol.1/wiki )
+(Information on the Wiki, https://github.com/NinjaCheetah/VisualBasic-Collection-Vol.1/wiki )
 ## What's required?
 - The target .NET framework version is currently 4.7.2
 - Windows 10
